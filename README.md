@@ -69,7 +69,7 @@ Variables: age · gender · marital status · monthly income · property ownersh
 | Downloaded but never registered | **433,000** |
 | Registered but inactive | 128,000 |
 
-*Total download events — includes re-downloads, not unique users*
+*_Total download events — includes re-downloads, not unique users__*
 
 Over half of people who downloaded the app never completed registration. The 433,000 who dropped off had already shown interest — re-engaging them was a bigger opportunity than acquiring new users.
 
