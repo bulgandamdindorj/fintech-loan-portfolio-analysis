@@ -109,7 +109,8 @@ Mapped consumer loan demand across age groups and income levels using the 380,00
 **Campaign Proposal**
 Proposed an SMS campaign targeting the 433,000 who downloaded but never registered — offering a temporary rate reduction from 3.6–6% down to 1.9–2.5% for one month to convert them into active users.
 
-<img width="645" height="363" alt="Screenshot 2026-06-25 at 4 11 37 PM" src="https://github.com/user-attachments/assets/ce200dfd-9fc4-4e3e-a969-a9474400db6a" />
+<img width="645" height="363" alt="Screenshot 2026-06-25 at 4 18 52 PM" src="https://github.com/user-attachments/assets/3e882141-9489-4acb-a95a-074e1240fc87" />
+
 
 
 ---
@@ -120,12 +121,21 @@ The full customer research and segmentation was delivered internally, saving the
 
 <table>
   <tr>
-    <td><img width="1179" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/9b8f4d14-cd50-4565-9cc9-f865d29e3ebc" />
-    <td><img width="1179" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/9b8f4d14-cd50-4565-9cc9-f865d29e3ebc" />
+    <td><img width="1179" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/77560423-f737-4f1c-abfe-70c808f23a27" />
+
+    <td><img width="1179" height="994" alt="IMG_5004" src="https://github.com/user-attachments/assets/6eae4cf3-8797-4aca-921d-6ad6a91dff97" />
+
   </tr>
   <tr>
-    <td align="center"><i>"Moni is such an easy and simple app to use"</i></td>
-    <td align="center"><i>"Moni became so beautiful after the update, the best" · "Moni is really super" · "Keeps getting better every day, wishing you higher success"</i></td>
+    <td>
+      <b>Ука Ука</b> — "Moni became so cool"<br>
+      <b>Oyungerel Delgermaa</b> — "Such an incredibly easy and simple app to use"
+    </td>
+    <td>
+      <b>Naranchimeg Monkhzul</b> — "Wow, Moni got updated and became so beautiful, the absolute best"<br>
+      <b>Lhamsuren Baynhuu</b> — "Moni is truly super"<br>
+      <b>Tungaa Tungaa</b> — "Moni keeps growing better every day — wishing the team even greater success"
+    </td>
   </tr>
 </table>
 
