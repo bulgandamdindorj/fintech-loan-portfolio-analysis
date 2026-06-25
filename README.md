@@ -102,13 +102,15 @@ Wrote all in-app copy — feature names, descriptions, and anything user-facing.
 **Customer Segmentation**
 Mapped consumer loan demand across age groups and income levels using the 380,000 customer records. Referenced an academic framework (*"The Impact of Age on Customers' Buying Behaviour"*, Marie Slabá Ph.D, 2019) to guide the segmentation logic. Key patterns: younger lower-income users showed the highest loan demand regardless of marital status, the 31–40 middle-income group had the highest overall activity, and higher-income users had the least need for micro-lending.
 
-> 📊 *[Page 24 — upload to GitHub and paste URL here]*  
+<img width="645" height="363" alt="Screenshot 2026-06-25 at 4 11 01 PM" src="https://github.com/user-attachments/assets/16187a97-783e-482a-b090-e0a5f7339f44" />
+
 > *Segmentation matrix — consumer loan demand by age and income · red = high demand · green = low demand*
 
 **Campaign Proposal**
 Proposed an SMS campaign targeting the 433,000 who downloaded but never registered — offering a temporary rate reduction from 3.6–6% down to 1.9–2.5% for one month to convert them into active users.
 
-> 📊 *[Page 14 — upload to GitHub and paste URL here]*
+<img width="645" height="363" alt="Screenshot 2026-06-25 at 4 11 37 PM" src="https://github.com/user-attachments/assets/ce200dfd-9fc4-4e3e-a969-a9474400db6a" />
+
 
 ---
 
@@ -116,7 +118,19 @@ Proposed an SMS campaign targeting the 433,000 who downloaded but never register
 
 The full customer research and segmentation was delivered internally, saving the company ~CAD $75,000 in external agency fees. The app was redesigned and shipped — clean, minimal, and consistent with Moni's brand identity. The loyalty program moved from a disappearing banner to a permanently visible button, and broken links were fixed. After launch, customers responded positively on social media.
 
-> 📊 *[Upload IMG_5003 and IMG_5004 to GitHub and paste URLs here]*  
+<table>
+  <tr>
+    <td><img width="1179" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/9b8f4d14-cd50-4565-9cc9-f865d29e3ebc" />
+    <td><img width="1179" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/9b8f4d14-cd50-4565-9cc9-f865d29e3ebc" />
+  </tr>
+  <tr>
+    <td align="center"><i>"Moni is such an easy and simple app to use"</i></td>
+    <td align="center"><i>"Moni became so beautiful after the update, the best" · "Moni is really super" · "Keeps getting better every day, wishing you higher success"</i></td>
+  </tr>
+</table>
+
+
+
 > *Customer comments on social media after the redesigned app launched*
 
 ---
