@@ -144,10 +144,7 @@ The full customer research and segmentation was delivered internally, saving the
 
 ## Tools
 
-| Tool | |
-|---|---|
-| Microsoft Excel | Data cleaning · pivot tables · VLOOKUP · segmentation matrix · funnel analysis |
-| PowerPoint | Executive presentation — President, CEO, HR Head, Department Heads |
+Microsoft Excel (data cleaning · pivot tables · VLOOKUP · segmentation matrix · funnel analysis) · PowerPoint (executive presentation)
 
 ---
 
