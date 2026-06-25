@@ -73,9 +73,6 @@ Variables: age · gender · marital status · monthly income · property ownersh
 
 Over half of people who downloaded the app never completed registration. The 433,000 who dropped off had already shown interest — re-engaging them was a bigger opportunity than acquiring new users.
 
-> 📊 *[Page 9 — upload to GitHub and paste URL here]*  
-> *Original slide from internal executive presentation — key metrics explained in table above*
-
 **Who was actually using Moni**
 
 | Segment | Share | Volume |
