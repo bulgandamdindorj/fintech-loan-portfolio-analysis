@@ -121,9 +121,9 @@ The full customer research and segmentation was delivered internally, saving the
 
 <table>
   <tr>
-    <td><img width="340" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/77560423-f737-4f1c-abfe-70c808f23a27" />
+    <td><img width="1179" height="544" alt="IMG_5003" src="https://github.com/user-attachments/assets/d6c88b14-197d-4374-b010-9c0beae577ee" />
 
-    <td><img width="340" height="994" alt="IMG_5004" src="https://github.com/user-attachments/assets/6eae4cf3-8797-4aca-921d-6ad6a91dff97" />
+    <td><img width="1179" height="994" alt="IMG_5004" src="https://github.com/user-attachments/assets/75506464-f7be-4117-9e0f-f4fc7ceffa3f" />
 
   </tr>
   <tr>
