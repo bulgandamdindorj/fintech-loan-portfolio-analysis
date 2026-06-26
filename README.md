@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This project saved Omnicapital ~CAD $75,000 in external research costs. Three months into the role, I presented UX research and product observations at a mandatory end-of-probation review with senior executives — flagging critical gaps between Moni's brand identity and its actual in-app experience. The findings triggered a company-wide rebranding decision. When an external agency quoted 200M MNT for the customer research, I proposed doing it internally instead. The CEO approved.
+This project saved Omnicapital ~CAD $75,000 in external research costs. Three months into the role, I presented UX research and product observations at end-of-probation review with senior executives — flagging critical gaps between Moni's brand identity and its actual in-app experience. The findings triggered a company-wide rebranding decision. When an external agency quoted 200M MNT for the customer research, I proposed doing it internally instead. The CEO approved.
 
 | | |
 |---|---|
