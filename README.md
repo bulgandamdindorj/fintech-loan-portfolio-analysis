@@ -96,7 +96,8 @@ Wrote all in-app copy — feature names, descriptions, and anything user-facing.
 **Customer Segmentation**
 Mapped consumer loan demand across age groups and income levels using the 380,000 customer records. Referenced an academic framework (*"The Impact of Age on Customers' Buying Behaviour"*, Marie Slabá Ph.D, 2019) to guide the segmentation logic. Key patterns: younger lower-income users showed the highest loan demand regardless of marital status, the 31–40 middle-income group had the highest overall activity, and higher-income users had the least need for micro-lending.
 
-<img width="645" height="363" alt="Screenshot 2026-06-25 at 4 11 01 PM" src="https://github.com/user-attachments/assets/16187a97-783e-482a-b090-e0a5f7339f44" />
+<img width="1710" height="1035" alt="Screenshot 2026-06-25 at 5 01 47 PM" src="https://github.com/user-attachments/assets/500c566b-c28f-4b51-adf7-89d6385587ec" />
+
 
 > *Segmentation matrix — consumer loan demand by age and income · red = high demand · green = low demand*
 
